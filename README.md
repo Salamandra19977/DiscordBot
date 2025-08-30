@@ -21,3 +21,8 @@ python main.py
 DISCORD_TOKEN=Ваш_токен_бота
 COMMAND_PREFIX=!
 ```
+## URL
+
+```
+https://discord.com/oauth2/authorize?client_id=1411257720811552840&permissions=8&scope=bot%20applications.commands
+```
